@@ -19,4 +19,4 @@ Expo app: https://expo.dev/@abdymm/VocallyMap?serviceType=classic&distribution=e
 
 ### Showcase
 
-[Watch the video](https://github.com/abdymm/VocallyPreProject/blob/master/showcase.MP4)
+[Demo](https://github.com/abdymm/VocallyPreProject/blob/master/showcase.MP4)
