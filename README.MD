@@ -14,5 +14,7 @@ Expo app: https://expo.dev/@abdymm/VocallyMap?serviceType=classic&distribution=e
 ### Stacks
 - Typescript
 - Navigation: React Navigation
+- React-native-maps
 - State Management: Context API
 
+### Showcase
