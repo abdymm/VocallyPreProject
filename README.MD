@@ -2,6 +2,7 @@
 
 More detail for the recruitment https://puzzled-tent-fa7.notion.site/React-Native-Project-5dd5676ac9f94a0d9d62ff8113d84932
 
+Expo app: https://expo.dev/@abdymm/VocallyMap?serviceType=classic&distribution=expo-go
 ## Getting Started
 
 ### Quick Start
